@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\warn_icon.png",
+        "source": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\warn_icon.png"
+    },
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\red_dot.png",
+        "source": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\red_dot.png"
+    },
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    }
+]

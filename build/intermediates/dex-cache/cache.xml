@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.timehop.stickyheadersrecyclerview\library\0.4.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="23bbdaadbcb0f011e809e07ae0a91e24fa55365d">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.timehop.stickyheadersrecyclerview-library-0.4.3_8680a0988cbb36b5bc18c15f26de1107d96fc077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_91294bbad05ad37ac5a3decca209679e2fc087a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_a0ea3894823d07cfa292038d68355c9873012e76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_3363f8eb7f5833e4f3ed1ee5c66c616b6c7e4c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\libs\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c413f2f258416b9378c753b09a985264c1e47b13">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\gson-2.5_55e2d9754c018ac0291138d27d1d4717b298c800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\okio-1.6.0_bb667456c4c138a2f705fdb70d5b227012b899ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_31e31db93d6b4e0abf8c2b9a0c27072836bc0fc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\com.jakewharton-butterknife-8.2.1_eaad36ff223e928707383ab71b1c6fab83074b9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\glide-3.7.0_6847dc5645c19615c623fcdef96473b3b9ad1f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\glide-3.7.0_6847dc5645c19615c623fcdef96473b3b9ad1f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_8c0cfb581013639fa59cd6b3db70df42feb8c35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_93dbeae97c03d2c2983be86e3b7f674df517762a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.lzy.net\okgo\2.1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb698597bf429f71793a87217f63a28cf7de0916">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.lzy.net-okgo-2.1.4_8cdf7cf06efba696b2029ba4e38abf17e879c379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\io.reactivex-rxandroid-1.2.1_8a5df1db7926dd23b001fd5d6e99ef0385f1ba93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cbca98aa97970908cf3a6f780bd9b70a141f7523">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\SocialSDK_QQZone_3_f74aafc5d44657933436c4b7dd2671dc144fd32b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\in.srain.cube-ultra-ptr-1.0.11_b20d713cda3e8604dd3d0e62e53d7ec590c9d8ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\in.srain.cube-ultra-ptr-1.0.11_362c281f8c2cd7b4bba4b3a6c8eaec21fa8c1770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\com.github.dmytrodanylyk.shadow-layout\library\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6625ecb586cdd40f3e160486368e5251630899c9">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\com.github.dmytrodanylyk.shadow-layout-library-1.0.3_878a6eaea808eb931db31f69b537bccb13f93890.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9b16ab8004212679a6373926b00e95774ba0199a">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\MyApplication-Framework-unspecified_e01c399f8324082caf34a12a3f6c54c1f3ba1cfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.7\45aaffc3cf6fa7c9b9eed6121369cad25789cf4a\rxjava-1.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="45aaffc3cf6fa7c9b9eed6121369cad25789cf4a">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\rxjava-1.1.7_616747da2f1bf03f9ccd2a14ab40598f152387ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0-alpha1_4d6861365fea8e323a54d7f946f0a0cbc99cb77c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.12.0_314a29a7674ad869f97bff2fe044e410cb2b4427.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.12.0_5b4259ab7eab565fdcca6bd99d4c7b1e9e0eb040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ef15d82e81c34ce0ff192753187f7fa9c5af6814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\com.android.support-support-v4-22.2.1_5d3177deec944c1bd29e483ed699b68f603f58ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="870ce856ec2f776985b61dbbf0df0db9fe6df78b">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\pub.devrel-easypermissions-0.4.0_614d9042b8de6c5abfa0b97242e5bee9a55fb49b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\libs\jpush-android-2.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="99c80319fb45b23fbc516787fdd3cf8940fda4b2">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\jpush-android-2.1.9_f344a4f0fdb070af97bd5633404be1a724c28473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\com.lzy.net\okhttputils\1.5.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="016f636bb3debc3193be9b4e146a2748a3494b84">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\com.lzy.net-okhttputils-1.5.1_285643d464ef2aa45f2945f80f2fb6e7085efde5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\internal_impl-22.2.1_65b6e04a1085d37710d7bfeed0eceff472b39056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_f0be12e04c41c0c88ce32a5ceeb3a119116cf1d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_1a71d102166ece8cf28f5d02fe0b4441779433a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\library-2.4.0_d1d2405b41fac7202b0c13e704d4336128b69953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="418868f1416898ed88da34f10e4d770502a8d6b7">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\mta-sdk-1.6.2_a9c516e131c12423c1814089ab49520c9594ed9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\libs\commons-httpclient-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="506945b2413d7fba9390f78ccc4b3c38561f8f52">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\commons-httpclient-3.1_2d1208d0a907e389d45e98185acde94c1ccb2843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_7f1e671d7e12934fbbb523eeb252559e6aa9c658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1d78fd95cfbd4d8fb6f8726347fa3bda24d162ee">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\httpmime-4.1.3_315bfdeacc378b61f1fb86a6f258136e8939ec4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="89a81e5289ede1f545e204c1a67e50dca71467b2">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\umeng_social_sdk_29ae93b86d7b742c2eb1758ef1348f55ba0b6ed4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\butterknife-annotations-8.2.1_213cd4c6db35d9e12b41efebe7b2161e671c8fe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\1.2.0\5e4042f9e0d39e0d01d4a8661d01e24995b2cbef\realm-annotations-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e4042f9e0d39e0d01d4a8661d01e24995b2cbef">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\realm-annotations-1.2.0_e4656c6daa8ae41250fc22b7ef1c00119ba91e2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.12.0_c20828a33750f0b291f153d5cca3ff75a148bd3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="84f73ae2cd835275fc4c0041a7b3e23edd6ecc52">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\SocialSDK_Sina_1b5333e1d07579a45811829d60b14152b071b5c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.12.0_d689a15f6180447bdfe61749a9d7be12ffaf775b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\MyApplication\banner\1.4.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95a8da030ac06425ead55fad569772a03d9a3e07">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\MyApplication-banner-1.4.9_b466bd61b31f2692805c20744e5539189ed1d9e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_690a037e5e9e018bbeffbfe2c8c8485b3386cf48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\libs\weiboSDKCore_3.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2bc78160e85f56f81c91271dfa44bd8c8293cb94">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\weiboSDKCore_3.1.4_58813f4e630105263f9f344fed2252806ea82762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\support-annotations-24.0.0_0f27e484c6c9d3b8bd70d3b45c2b97d86c7fc395.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\okio-1.9.0_0af12a302a2362bac29dd94e80ed37309651bb6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_9d8a85474383c7d81b0d3fa83df6381fb6bbe7e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\okhttp-3.2.0_b15abc38adeac3441d50130cc293151fca8c2b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ba22785d529a9cd95f714ca782a59846a22ce02">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-0.12.0_e0e84768fdea7de7bd26f6f6dd88dfedf0dbe70e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\de.halfbit\pinned-section-listview\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ef3f5c5c9254e8878303d51e074c9a831e8076">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\de.halfbit-pinned-section-listview-1.0.0_7f378f63803be228c3fbb78fce95c1ebeeb0bfc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_af6b3ab5f7cf3d103fb4b07ce5a7457304829fc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\com.getkeepsafe.relinker\relinker\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\com.getkeepsafe.relinker-relinker-1.2.1_08a7ad2f271ae1c1b10353468903f2aa7f119dd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0-alpha1_77971e707ca2e97faabfd70e63d777c33fc43bc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_be8ba5fe7b3ff61fd8964efc0bf1f0237df11628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e2a9c788016ea496c76407f409d8d1cf69f43cb3">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\libammsdk_e8d4da019acec13d16fd48f4de54b8b4566902dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_aef453ceb65d9521cfa71ab4f7a2c24a6528a0c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5264b71e1dc59a10268e0aafa38cb9a9c773a20d">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\jp.wasabeef-glide-transformations-1.3.1_946f54323c923477509f19f7836a8854f8d0b881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\libs\open_sdk_r5509.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a9aa09ddac7478e982b3ff55f7e32a7e51f67dbf">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\open_sdk_r5509_d3982bdcf6ecaf368eeadeb6ea6d4e8fefe74d9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\com.yqritc\recyclerview-flexibledivider\1.2.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3a03e6e942bcc46a8d01c2da5d8a2147ecab113d">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\com.yqritc-recyclerview-flexibledivider-1.2.9_5dca9752d98e57655505a92cf8cde85aa07ab92d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.12.0_b24effb7ed095bf4d064a8b3235c44a96b49b3e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.lzy.net\okserver\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379d026596d204cf421ba7b918e8195a659089ce">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.lzy.net-okserver-1.1.3_0d79b7c9d972a3d853d97e5608cc1edd6e98c055.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\io.realm\realm-android-library\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="15a3e65c92d3cde64c725dba8d590a1123d2d213">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\io.realm-realm-android-library-1.2.0_7d67c8f55a56d378dc2ecdf8755bb39809acbf4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="20a1574686e57dfd6f77d6f698068c08a029d724">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\BaiduLBS_Android_28a703759b9a20030323a3bbec8cfe86459604ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\MyApplication\Framework\unspecified\jars\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="97b395f8fbd8ee06d8f24225449aadcb46add56c">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\SocialSDK_WeiXin_2_9ef0ec6344a96a4ea674a0712754f7766a15dd7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\jloa\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="D:\lwl\MyApplication\jloa\build\intermediates\pre-dexed\oaidcEnvi\debug\com.android.support-recyclerview-v7-22.2.1_fae0fc9eb0014d7388609cb09d79981f3b349cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92e359c53b444598bf7973f1cbf31c8dc769e19f">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-gif-0.12.0_69fe356500c2b6d1deee7ca06b86e1dd6935678b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_d8dad25a7d2e6f3511ceb2252be420a2c90ab439.jar" />
+    </item>
+
+</items>

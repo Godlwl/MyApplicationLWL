@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\debug\\layout\\default_load_more_view.xml",
+        "source": "D:\\lwl\\MyApplication\\Framework\\res\\layout\\default_load_more_view.xml"
+    },
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_recycler_view.xml",
+        "source": "D:\\lwl\\MyApplication\\Framework\\res\\layout\\refresh_recycler_view.xml"
+    },
+    {
+        "merged": "D:\\lwl\\MyApplication\\Framework\\build\\intermediates\\res\\merged\\debug\\layout\\tab_view.xml",
+        "source": "D:\\lwl\\MyApplication\\Framework\\res\\layout\\tab_view.xml"
+    }
+]

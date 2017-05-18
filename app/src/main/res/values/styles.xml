@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="AnimBottom" parent="@android:style/Animation">
+
+        <!--
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+		<item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+
+
+        -->
+        <item name="android:activityOpenEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/push_bottom_out</item>
+    </style>
+
+    <style name="App" parent="AppTheme">
+        <item name="android:windowAnimationStyle">@style/AnimBottom</item>
+    </style>
+
+    <style name="MyProgressDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@android:color/holo_red_light</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="DialogF">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+
+    <!--<style name="NoFrame" >-->
+    <!--<item name="windowBackground">@color/transparent</item>-->
+    <!--<item name="windowElevation">0dp</item>-->
+    <!--<item name="windowAnimationStyle">@null</item>-->
+    <!--<item name="backgroundDimEnabled">false</item>-->
+    <!--<item name="windowIsTranslucent">true</item>-->
+    <!--<item name="windowNoTitle">true</item>-->
+    <!--<item name="windowCloseOnTouchOutside">false</item>-->
+    <!--</style>-->
+
+</resources>
