@@ -46,17 +46,21 @@
             android:theme="@style/AppTheme" />
         <activity android:name=".CameraActivity" />
         <activity android:name=".Camera2Activity" />
-        <activity android:name=".ScrollerActivity"></activity>
-        <activity android:name=".AnimatorActivity">
+        <activity android:name=".ScrollerActivity" />
+        <activity android:name=".AnimatorActivity" />
+        <activity
+            android:name=".AnimatorActivity2"
+            android:windowFullscreen="false" />
+        <activity android:name=".KotlinActivity"></activity>
+        <activity android:name=".KotlinListActivity">
+
+        </activity>
+        <activity android:name=".SearchActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity android:name=".AnimatorActivity2"
-            android:windowFullscreen="false">
-
         </activity>
     </application>
 
