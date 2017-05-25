@@ -23,7 +23,7 @@ public class MyApplication extends Application {
          */
         OkGo.init(this);
 
-        Log.d("test","test");
+        Log.d("test","te1st");
     }
 
     public static MyApplication getContext(){
