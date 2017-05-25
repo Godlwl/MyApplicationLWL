@@ -2,22 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.timehop.stickyheadersrecyclerview\library\0.4.3\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.5\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="23bbdaadbcb0f011e809e07ae0a91e24fa55365d">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.timehop.stickyheadersrecyclerview-library-0.4.3_8680a0988cbb36b5bc18c15f26de1107d96fc077.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_91294bbad05ad37ac5a3decca209679e2fc087a7.jar" />
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test-rules-0.5_99f110625c6c473c30b5f2f6090f842e7775d225\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -29,49 +20,40 @@
         <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_a0ea3894823d07cfa292038d68355c9873012e76.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_3363f8eb7f5833e4f3ed1ee5c66c616b6c7e4c47.jar" />
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test.espresso-espresso-idling-resource-2.2.2_3e12c8997b9424f9158f204204c5ba331e1220a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.lzy.net\okgo\2.1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb698597bf429f71793a87217f63a28cf7de0916">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.lzy.net-okgo-2.1.4_8cdf7cf06efba696b2029ba4e38abf17e879c379\classes.dex" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.2\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_31e31db93d6b4e0abf8c2b9a0c27072836bc0fc3.jar" />
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support.test.espresso-espresso-idling-resource-2.2.2_3e12c8997b9424f9158f204204c5ba331e1220a4.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\library-2.4.0_d1d2405b41fac7202b0c13e704d4336128b69953.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\glide-3.7.0_6847dc5645c19615c623fcdef96473b3b9ad1f8e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_7f1e671d7e12934fbbb523eeb252559e6aa9c658.jar" />
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_a0ea3894823d07cfa292038d68355c9873012e76\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -83,13 +65,310 @@
         <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_8c0cfb581013639fa59cd6b3db70df42feb8c35b.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.12.0_c20828a33750f0b291f153d5cca3ff75a148bd3c.jar" />
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_8c0cfb581013639fa59cd6b3db70df42feb8c35b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_93dbeae97c03d2c2983be86e3b7f674df517762a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-common\0.8.3\ad10769960178c2c329a7dd6b801f3403558a9da\anko-common-0.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad10769960178c2c329a7dd6b801f3403558a9da">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\anko-common-0.8.3_524473ba7f3f93178470eef92afeed4996710b0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-common\0.8.3\ad10769960178c2c329a7dd6b801f3403558a9da\anko-common-0.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad10769960178c2c329a7dd6b801f3403558a9da">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\anko-common-0.8.3_524473ba7f3f93178470eef92afeed4996710b0d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_93dbeae97c03d2c2983be86e3b7f674df517762a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.lzy.net\okgo\2.1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb698597bf429f71793a87217f63a28cf7de0916">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.lzy.net-okgo-2.1.4_8cdf7cf06efba696b2029ba4e38abf17e879c379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\in.srain.cube-ultra-ptr-1.0.11_b20d713cda3e8604dd3d0e62e53d7ec590c9d8ef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2-4\3f5f1498bdbb9611cb1413f794b3a3a5a6edef34\kotlin-stdlib-1.1.2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f5f1498bdbb9611cb1413f794b3a3a5a6edef34">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.1.2-4_f7b510cb3d7c697a4b544a8b8ac02160d4af4e4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support.test-rules-0.5_99f110625c6c473c30b5f2f6090f842e7775d225.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_3855cf498a726bc948c305f2b69c9c45174bee0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\in.srain.cube-ultra-ptr-1.0.11_b20d713cda3e8604dd3d0e62e53d7ec590c9d8ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.12.0_5b4259ab7eab565fdcca6bd99d4c7b1e9e0eb040\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\javawriter-2.1.1_2e6e79f1dc459a4df6d6a5c5d0744718a1c5a498.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_af6b3ab5f7cf3d103fb4b07ce5a7457304829fc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support.test-runner-0.5_520bc32d7b4fee0068db98f6f78282c09c0455f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2-4\3f5f1498bdbb9611cb1413f794b3a3a5a6edef34\kotlin-stdlib-1.1.2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f5f1498bdbb9611cb1413f794b3a3a5a6edef34">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.2-4_f7b510cb3d7c697a4b544a8b8ac02160d4af4e4f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test-runner-0.5_520bc32d7b4fee0068db98f6f78282c09c0455f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="870ce856ec2f776985b61dbbf0df0db9fe6df78b">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\pub.devrel-easypermissions-0.4.0_614d9042b8de6c5abfa0b97242e5bee9a55fb49b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\javax.annotation-api-1.2_1a8baca7a07e223977ff0c2d978548767f943932.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\javawriter-2.1.1_2e6e79f1dc459a4df6d6a5c5d0744718a1c5a498\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.12.0_5b4259ab7eab565fdcca6bd99d4c7b1e9e0eb040.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.annotation-api-1.2_1a8baca7a07e223977ff0c2d978548767f943932\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="870ce856ec2f776985b61dbbf0df0db9fe6df78b">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\pub.devrel-easypermissions-0.4.0_614d9042b8de6c5abfa0b97242e5bee9a55fb49b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\gson-2.8.0_93ddd6f8eed7e01ec83911fb2c6579a735e57853.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_93ddd6f8eed7e01ec83911fb2c6579a735e57853\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\okio-1.13.0_0807f0b9ba3d56746be48b58bd0fa403e8cddd8a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-26.0.0-alpha1_7f1e671d7e12934fbbb523eeb252559e6aa9c658\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-integration-1.3_431cb5aec39b12382b48b0860dc22918587bccee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test.espresso-espresso-core-2.2.2_f8b193fc1ac9a5d5f9286d7b0eac59e5b42e8d0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_7f1e671d7e12934fbbb523eeb252559e6aa9c658.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_690a037e5e9e018bbeffbfe2c8c8485b3386cf48\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support.test.espresso-espresso-core-2.2.2_f8b193fc1ac9a5d5f9286d7b0eac59e5b42e8d0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\hamcrest-integration-1.3_431cb5aec39b12382b48b0860dc22918587bccee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_690a037e5e9e018bbeffbfe2c8c8485b3386cf48.jar" />
     </item>
     <item
         is-multidex="false"
@@ -111,84 +390,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_690a037e5e9e018bbeffbfe2c8c8485b3386cf48.jar" />
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_c4fe59ac07429c7984c789a8d23693f6378939ed.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\de.halfbit\pinned-section-listview\1.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_93dbeae97c03d2c2983be86e3b7f674df517762a.jar" />
+        sha1="78ef3f5c5c9254e8878303d51e074c9a831e8076">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.halfbit-pinned-section-listview-1.0.0_7f378f63803be228c3fbb78fce95c1ebeeb0bfc2\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\okio-1.9.0_0af12a302a2362bac29dd94e80ed37309651bb6a.jar" />
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_be8ba5fe7b3ff61fd8964efc0bf1f0237df11628\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-common\0.8.3\ad10769960178c2c329a7dd6b801f3403558a9da\anko-common-0.8.3.jar"
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="ad10769960178c2c329a7dd6b801f3403558a9da">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\anko-common-0.8.3_524473ba7f3f93178470eef92afeed4996710b0d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_9d8a85474383c7d81b0d3fa83df6381fb6bbe7e5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.2-4\e6a7403299b8f3126e3a1576c02e3f07ae5af6fa\kotlin-stdlib-jre7-1.1.2-4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e6a7403299b8f3126e3a1576c02e3f07ae5af6fa">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.2-4_c688dca0a3b24c34be98c1f7a6dbe4d4858ef519.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\0.12.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7ba22785d529a9cd95f714ca782a59846a22ce02">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-0.12.0_e0e84768fdea7de7bd26f6f6dd88dfedf0dbe70e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-sdk15\0.8.3\26601eb26b1bfadb2b1c1e71ddb39200cfaa289e\anko-sdk15-0.8.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="26601eb26b1bfadb2b1c1e71ddb39200cfaa289e">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\anko-sdk15-0.8.3_35e1f28dd3f98ce6ff4886d5d415060180bc07b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.lzy.net\okgo\2.1.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb698597bf429f71793a87217f63a28cf7de0916">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.lzy.net-okgo-2.1.4_8cdf7cf06efba696b2029ba4e38abf17e879c379.jar" />
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_0807f0b9ba3d56746be48b58bd0fa403e8cddd8a\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -198,15 +432,6 @@
         revision="25.0.2"
         sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
         <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\jsoup-1.8.3_6f341219ac7445bbd19fbea3ebacd415da4bd6a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\in.srain.cube-ultra-ptr-1.0.11_b20d713cda3e8604dd3d0e62e53d7ec590c9d8ef.jar" />
     </item>
     <item
         is-multidex="false"
@@ -227,6 +452,33 @@
         <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_af6b3ab5f7cf3d103fb4b07ce5a7457304829fc2.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_c4fe59ac07429c7984c789a8d23693f6378939ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.12.0_d689a15f6180447bdfe61749a9d7be12ffaf775b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\MyApplication\banner\1.4.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95a8da030ac06425ead55fad569772a03d9a3e07">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\4\MyApplication-banner-1.4.9_b466bd61b31f2692805c20744e5539189ed1d9e9\classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
@@ -245,22 +497,148 @@
         <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_be8ba5fe7b3ff61fd8964efc0bf1f0237df11628.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2-4\3f5f1498bdbb9611cb1413f794b3a3a5a6edef34\kotlin-stdlib-1.1.2-4.jar"
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="3f5f1498bdbb9611cb1413f794b3a3a5a6edef34">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.2-4_f7b510cb3d7c697a4b544a8b8ac02160d4af4e4f.jar" />
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsoup-1.8.3_6f341219ac7445bbd19fbea3ebacd415da4bd6a0\classes.dex" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.lzy.net\okserver\1.1.3\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_aef453ceb65d9521cfa71ab4f7a2c24a6528a0c0.jar" />
+        sha1="379d026596d204cf421ba7b918e8195a659089ce">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.lzy.net-okserver-1.1.3_0d79b7c9d972a3d853d97e5608cc1edd6e98c055.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-26.0.0-alpha1_77971e707ca2e97faabfd70e63d777c33fc43bc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.lzy.net\okserver\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379d026596d204cf421ba7b918e8195a659089ce">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.lzy.net-okserver-1.1.3_0d79b7c9d972a3d853d97e5608cc1edd6e98c055\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.timehop.stickyheadersrecyclerview\library\0.4.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9d7fd39e49bd8f13d3806d06698c202b09d0308">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.timehop.stickyheadersrecyclerview-library-0.4.3_8680a0988cbb36b5bc18c15f26de1107d96fc077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_91294bbad05ad37ac5a3decca209679e2fc087a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_3363f8eb7f5833e4f3ed1ee5c66c616b6c7e4c47.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_6847dc5645c19615c623fcdef96473b3b9ad1f8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_1a71d102166ece8cf28f5d02fe0b4441779433a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\glide-3.7.0_6847dc5645c19615c623fcdef96473b3b9ad1f8e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-2.0.1_144c7ddc3aae23c8fdcbde401e7dfa13b0b48a64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_3363f8eb7f5833e4f3ed1ee5c66c616b6c7e4c47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_91294bbad05ad37ac5a3decca209679e2fc087a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_144c7ddc3aae23c8fdcbde401e7dfa13b0b48a64.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_61c04e2f303f08fd6580d7b1c17d6ad44bab1374\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.12.0_314a29a7674ad869f97bff2fe044e410cb2b4427\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -281,13 +659,22 @@
         <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.12.0_314a29a7674ad869f97bff2fe044e410cb2b4427.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="a540784239c611ea490593e2053a5e2890675c68">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.12.0_5b4259ab7eab565fdcca6bd99d4c7b1e9e0eb040.jar" />
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-26.0.0-alpha1_4d6861365fea8e323a54d7f946f0a0cbc99cb77c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_61c04e2f303f08fd6580d7b1c17d6ad44bab1374.jar" />
     </item>
     <item
         is-multidex="false"
@@ -299,22 +686,247 @@
         <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_ef15d82e81c34ce0ff192753187f7fa9c5af6814.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.5\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\okhttp-2.7.5.jar"
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_ef8d149c725a1f0f93a755ac9cb3cb12a074328b.jar" />
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_ba5d8f964d33da1844f9620a1e4a660c5ef3b47e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_ef15d82e81c34ce0ff192753187f7fa9c5af6814\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_f0be12e04c41c0c88ce32a5ceeb3a119116cf1d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.12.0_c20828a33750f0b291f153d5cca3ff75a148bd3c\classes.dex" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.4.0\jars\classes.jar"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.5\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="870ce856ec2f776985b61dbbf0df0db9fe6df78b">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\pub.devrel-easypermissions-0.4.0_614d9042b8de6c5abfa0b97242e5bee9a55fb49b.jar" />
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support.test-exposed-instrumentation-api-publish-0.5_7d148acfd9e06c0ca76e7620ac16460da3be23d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\javax.inject-1_ba5d8f964d33da1844f9620a1e4a660c5ef3b47e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_f0be12e04c41c0c88ce32a5ceeb3a119116cf1d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.timehop.stickyheadersrecyclerview\library\0.4.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9d7fd39e49bd8f13d3806d06698c202b09d0308">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.timehop.stickyheadersrecyclerview-library-0.4.3_8680a0988cbb36b5bc18c15f26de1107d96fc077\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_1a71d102166ece8cf28f5d02fe0b4441779433a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.test-exposed-instrumentation-api-publish-0.5_7d148acfd9e06c0ca76e7620ac16460da3be23d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-sdk15\0.8.3\26601eb26b1bfadb2b1c1e71ddb39200cfaa289e\anko-sdk15-0.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26601eb26b1bfadb2b1c1e71ddb39200cfaa289e">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\anko-sdk15-0.8.3_35e1f28dd3f98ce6ff4886d5d415060180bc07b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\library-2.4.0_d1d2405b41fac7202b0c13e704d4336128b69953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\junit-4.12_1a84cebc3d34fd21b78f250280320f78a01cb0e3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_1a84cebc3d34fd21b78f250280320f78a01cb0e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.12.0_c20828a33750f0b291f153d5cca3ff75a148bd3c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ba22785d529a9cd95f714ca782a59846a22ce02">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-base-0.12.0_e0e84768fdea7de7bd26f6f6dd88dfedf0dbe70e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.2-4\e6a7403299b8f3126e3a1576c02e3f07ae5af6fa\kotlin-stdlib-jre7-1.1.2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6a7403299b8f3126e3a1576c02e3f07ae5af6fa">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-jre7-1.1.2-4_c688dca0a3b24c34be98c1f7a6dbe4d4858ef519\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_aef453ceb65d9521cfa71ab4f7a2c24a6528a0c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_9d8a85474383c7d81b0d3fa83df6381fb6bbe7e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ba22785d529a9cd95f714ca782a59846a22ce02">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-animated-base-0.12.0_e0e84768fdea7de7bd26f6f6dd88dfedf0dbe70e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.2-4\e6a7403299b8f3126e3a1576c02e3f07ae5af6fa\kotlin-stdlib-jre7-1.1.2-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6a7403299b8f3126e3a1576c02e3f07ae5af6fa">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.2-4_c688dca0a3b24c34be98c1f7a6dbe4d4858ef519.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains.anko\anko-sdk15\0.8.3\26601eb26b1bfadb2b1c1e71ddb39200cfaa289e\anko-sdk15-0.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26601eb26b1bfadb2b1c1e71ddb39200cfaa289e">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\anko-sdk15-0.8.3_35e1f28dd3f98ce6ff4886d5d415060180bc07b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_d1d2405b41fac7202b0c13e704d4336128b69953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_9d8a85474383c7d81b0d3fa83df6381fb6bbe7e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_aef453ceb65d9521cfa71ab4f7a2c24a6528a0c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.12.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.12.0_b24effb7ed095bf4d064a8b3235c44a96b49b3e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_ee881c5abb3aa5518a55489ac8943593d84281ea\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -335,31 +947,31 @@
         <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\annotations-13.0_ee881c5abb3aa5518a55489ac8943593d84281ea.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.lzy.net\okserver\1.1.3\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\0.12.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="379d026596d204cf421ba7b918e8195a659089ce">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.lzy.net-okserver-1.1.3_0d79b7c9d972a3d853d97e5608cc1edd6e98c055.jar" />
+        sha1="92e359c53b444598bf7973f1cbf31c8dc769e19f">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-animated-gif-0.12.0_69fe356500c2b6d1deee7ca06b86e1dd6935678b\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        is-multidex="true"
+        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_f0be12e04c41c0c88ce32a5ceeb3a119116cf1d1.jar" />
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_d8dad25a7d2e6f3511ceb2252be420a2c90ab439\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\lwl\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_1a71d102166ece8cf28f5d02fe0b4441779433a1.jar" />
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-library-1.3_ba78b2db300e6f4edfee836690948f9bdbfa0c33\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -378,6 +990,15 @@
         revision="25.0.2"
         sha1="2e92aa0163544a804a0b34f169ca61801770839a">
         <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_d8dad25a7d2e6f3511ceb2252be420a2c90ab439.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="D:\lwl\MyApplication\app\build\intermediates\pre-dexed\debug\hamcrest-library-1.3_ba78b2db300e6f4edfee836690948f9bdbfa0c33.jar" />
     </item>
 
 </items>

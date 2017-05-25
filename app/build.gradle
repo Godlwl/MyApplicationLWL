@@ -13,6 +13,7 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
     }
     buildTypes {
         release {
@@ -38,16 +39,19 @@ dependencies {
     compile 'com.timehop.stickyheadersrecyclerview:library:0.4.3'
     compile 'com.github.bumptech.glide:glide:3.7.0'
     compile 'pub.devrel:easypermissions:0.4.0'
-
-    compile 'com.lzy.net:okgo:+'        //版本号使用 + 可以自动引用最新版
-//    compile 'com.lzy.net:okrx:+'        //版本号使用 + 可以自动引用最新版
-    compile 'com.lzy.net:okserver:+'    //版本号使用 + 可以自动引用最新版
+    compile 'com.lzy.net:okgo:+'
+    //版本号使用 + 可以自动引用最新版
+    //    compile 'com.lzy.net:okrx:+'        //版本号使用 + 可以自动引用最新版
+    compile 'com.lzy.net:okserver:+'
+    //版本号使用 + 可以自动引用最新版
     compile project(':banner')
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
-
     compile 'org.jsoup:jsoup:1.8.3'
     compile 'org.jetbrains.anko:anko-sdk15:0.8.3'
-    compile 'com.squareup.okhttp:okhttp:2.7.5'
+    compile 'com.google.code.gson:gson:+'
+    compile 'com.squareup.okhttp3:okhttp:3.8.0'
+    compile 'com.android.support.test.espresso:espresso-core:2.2.2'
+    compile 'com.android.support:multidex:1.0.1'
 }
 repositories {
     mavenCentral()

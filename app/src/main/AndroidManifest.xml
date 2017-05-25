@@ -51,11 +51,12 @@
         <activity
             android:name=".AnimatorActivity2"
             android:windowFullscreen="false" />
-        <activity android:name=".KotlinActivity"></activity>
-        <activity android:name=".KotlinListActivity">
+        <activity android:name=".KotlinActivity">
 
         </activity>
-        <activity android:name=".SearchActivity">
+        <activity android:name=".KotlinListActivity"></activity>
+        <activity android:name=".SearchActivity"></activity>
+        <activity android:name=".mvpTest.GetUserInfoActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
