@@ -24,6 +24,11 @@ public class MyApplication extends Application {
         OkGo.init(this);
 
         Log.d("test","te1st");
+
+        /**
+         * 哈哈哈哈哈哈我又来合并啦
+         */
+        Log.d("test","te1st");
     }
 
     public static MyApplication getContext(){
