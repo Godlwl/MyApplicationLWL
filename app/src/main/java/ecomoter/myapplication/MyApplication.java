@@ -1,6 +1,7 @@
 package ecomoter.myapplication;
 
 import android.app.Application;
+import android.util.Log;
 
 import com.lzy.okgo.OkGo;
 
@@ -15,7 +16,14 @@ public class MyApplication extends Application {
     public void onCreate() {
         super.onCreate();
         context=this;
+
+
+        /**
+         * 我是来测试合并分支的
+         */
         OkGo.init(this);
+
+        Log.d("test","test");
     }
 
     public static MyApplication getContext(){
