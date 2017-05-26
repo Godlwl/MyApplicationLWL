@@ -64,6 +64,7 @@ public class StickyRecyCyclerViewActivity extends AppCompatActivity {
                 Log.d("type1type1111",stickyInfoView.getId()+"");
 
                 Log.d("type1type111",mRv.getChildAt(0).getId()+"");
+                Log.d("测试测试","ddddd");
 //                Toast.makeText(StickyRecyCyclerViewActivity.this, mAdapter.getItemViewType(manager.findFirstCompletelyVisibleItemPosition()),Toast.LENGTH_SHORT).show();
 
             }
