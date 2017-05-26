@@ -68,6 +68,7 @@ public class StickyRecyCyclerViewActivity extends AppCompatActivity {
 
             }
         });
+
     }
 
     private void loadData() {
@@ -76,7 +77,13 @@ public class StickyRecyCyclerViewActivity extends AppCompatActivity {
             model.setType(i%5==0?0:1);
             model.setMsg("hello"+i);
             mDatas.add(model);
+            test(1,1,1,1,1,1,1,1,1,1,1,1);
         }
+
+    }
+
+
+    public void test(int i,Integer... s){
 
     }
 }
