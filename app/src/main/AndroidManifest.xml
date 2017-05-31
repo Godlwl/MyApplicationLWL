@@ -51,12 +51,14 @@
         <activity
             android:name=".AnimatorActivity2"
             android:windowFullscreen="false" />
-        <activity android:name=".KotlinActivity">
+        <activity android:name=".KotlinActivity" />
+        <activity android:name=".KotlinListActivity" />
+        <activity android:name=".SearchActivity" />
+        <activity android:name=".mvpTest.GetUserInfoActivity"></activity>
+        <activity android:name=".LitePalActivity">
 
         </activity>
-        <activity android:name=".KotlinListActivity"></activity>
-        <activity android:name=".SearchActivity"></activity>
-        <activity android:name=".mvpTest.GetUserInfoActivity">
+        <activity android:name=".GreenDaoActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
