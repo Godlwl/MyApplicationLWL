@@ -7,12 +7,13 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
-import ecomoter.myapplication.model.DaoMaster;
-import ecomoter.myapplication.model.DaoSession;
+import ecomoter.myapplication.greendao.DaoSession;
+import ecomoter.myapplication.greendao.UserDao;
 import ecomoter.myapplication.model.Teacher;
 import ecomoter.myapplication.model.User;
-import ecomoter.myapplication.model.UserDao;
 import ecomoter.myapplication.mvpbase.Student;
 
 public class GreenDaoActivity extends AppCompatActivity {
@@ -61,6 +62,14 @@ public class GreenDaoActivity extends AppCompatActivity {
                         .build().list();
 
                 Toast.makeText(GreenDaoActivity.this,userList.get(0).getName(),Toast.LENGTH_SHORT).show();
+
+                ExecutorService cachedThreadPool= Executors.newCachedThreadPool();
+                cachedThreadPool.execute(new Runnable() {
+                    @Override
+                    public void run() {
+
+                    }
+                });
             }
         });
 

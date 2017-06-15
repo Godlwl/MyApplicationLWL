@@ -20,6 +20,9 @@
         <activity
             android:name=".WebViewActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <!-- android:theme="@style/Theme.AppCompat.Light.NoActionBar" /> -->
+
+
         <!--
  ATTENTION: This was auto-generated to add Google Play services to your project for
      App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
@@ -54,11 +57,31 @@
         <activity android:name=".KotlinActivity" />
         <activity android:name=".KotlinListActivity" />
         <activity android:name=".SearchActivity" />
-        <activity android:name=".mvpTest.GetUserInfoActivity"></activity>
-        <activity android:name=".LitePalActivity">
+        <activity android:name=".mvpTest.GetUserInfoActivity" />
+        <activity android:name=".LitePalActivity" />
+        <activity android:name=".GreenDaoActivity" />
+        <activity android:name=".LeakcanaryActivity" />
+        <activity android:name=".startwithbrowser.LoadingActivity"></activity>
+        <activity
+            android:name=".startwithbrowser.FirstActivity"
+            android:allowTaskReparenting="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="jp.app"
+                    android:pathPrefix="/openwith"
+                    android:scheme="myapp" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".startwithbrowser.SecondActivity" />
+        <activity android:name=".rxjava.RxJavaActivity">
 
         </activity>
-        <activity android:name=".GreenDaoActivity">
+        <activity android:name=".rxjava.RxJavaAndRetrofitActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

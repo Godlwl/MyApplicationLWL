@@ -1,8 +1,6 @@
 package ecomoter.myapplication.model;
 
-import android.content.Context;
 import android.database.Cursor;
-import android.database.sqlite.SQLiteDatabase;
 import android.text.TextUtils;
 import android.util.Log;
 
@@ -14,7 +12,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import ecomoter.myapplication.model.DaoMaster;
+import ecomoter.myapplication.greendao.DaoMaster;
 
 public class MigrationHelper {
 

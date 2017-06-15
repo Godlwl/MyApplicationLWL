@@ -32,6 +32,7 @@ public class NetUtil{
         }
         return okHttpClient;
     }
+
     public void get(String url, final NetCallBack callback, final Type type){
         Request request=new Request.Builder()
                 .url(url)

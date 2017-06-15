@@ -6,6 +6,8 @@ import android.database.sqlite.SQLiteDatabase;
 import org.greenrobot.greendao.database.Database;
 
 import ecomoter.myapplication.MyApplication;
+import ecomoter.myapplication.greendao.DaoMaster;
+import ecomoter.myapplication.greendao.TeacherDao;
 
 /**
  * Created by lwl on 2017/5/31.
@@ -25,10 +27,12 @@ public class MyOpenHelper extends DaoMaster.OpenHelper {
     public void onUpgrade(Database db, int oldVersion, int newVersion) {
 //        super.onUpgrade(db, oldVersion, newVersion);
         // 第二个参数为要升级的Dao文件.
-//        MigrationHelper.getInstance().migrate(db, TeacherDao.class);
+        MigrationHelper.getInstance().migrate(db, TeacherDao.class);
         MyApplication.getContext().getDaoMaster().createAllTables(db,true);
 //        String sql="ALTER TABLE USER ADD COLUMN test INTEGER";
 //        db.execSQL(sql);
 
     }
+
+
 }

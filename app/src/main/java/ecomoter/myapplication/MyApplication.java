@@ -1,14 +1,15 @@
 package ecomoter.myapplication;
 
-import android.app.Application;
 import android.util.Log;
 
+import com.baidu.mapapi.SDKInitializer;
 import com.lzy.okgo.OkGo;
+import com.squareup.leakcanary.LeakCanary;
 
 import org.litepal.LitePalApplication;
 
-import ecomoter.myapplication.model.DaoMaster;
-import ecomoter.myapplication.model.DaoSession;
+import ecomoter.myapplication.greendao.DaoMaster;
+import ecomoter.myapplication.greendao.DaoSession;
 import ecomoter.myapplication.model.MyOpenHelper;
 
 /**
@@ -35,7 +36,7 @@ public class MyApplication extends LitePalApplication {
         /**
          * 我是来测试合并分支的
          */
-        OkGo.init(this);
+        OkGo.getInstance().init(this);
 
         Log.d("test", "te1st");
 
@@ -50,6 +51,10 @@ public class MyApplication extends LitePalApplication {
         devOpenHelper = new MyOpenHelper(MyApplication.getContext(), "mydb.db", null);
         daoMaster = new DaoMaster(devOpenHelper.getWritableDatabase());
         daoSession = daoMaster.newSession();
+
+        LeakCanary.install(this);
+
+        SDKInitializer.initialize(context);
     }
 
     public static MyApplication getContext() {
