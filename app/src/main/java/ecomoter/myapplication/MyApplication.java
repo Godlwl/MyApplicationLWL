@@ -1,5 +1,8 @@
 package ecomoter.myapplication;
 
+import android.content.Context;
+import android.support.multidex.MultiDex;
+import android.support.multidex.MultiDexApplication;
 import android.util.Log;
 
 import com.baidu.mapapi.SDKInitializer;
@@ -66,5 +69,11 @@ public class MyApplication extends LitePalApplication {
     }
     public DaoMaster getDaoMaster(){
         return daoMaster;
+    }
+
+    @Override
+    protected void attachBaseContext(Context base) {
+        super.attachBaseContext(base);
+        MultiDex.install(this);
     }
 }

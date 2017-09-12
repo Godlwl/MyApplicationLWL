@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_suspend_scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ecomoter.myapplication.suspendscroll.SuspendScrollActivity">
+
+
+
+    <ecomoter.myapplication.suspendscroll.SuspendScrollView
+        android:id="@+id/ssv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@color/colorAccent"
+                android:text="banner"
+                android:gravity="center"
+                />
+            <TextView
+                android:id="@+id/tv_dhl"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@color/colorPrimaryDark"
+                android:text="导航栏"
+                android:gravity="center"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@color/common_action_bar_splitter"
+                android:text="banner"
+                android:gravity="center"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@color/common_plus_signin_btn_text_light_pressed"
+                android:text="banner"
+                android:gravity="center"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@color/colorAccent"
+                android:text="banner"
+                android:gravity="center"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@color/colorAccent"
+                android:text="banner"
+                android:gravity="center"
+                />
+        </LinearLayout>
+
+    </ecomoter.myapplication.suspendscroll.SuspendScrollView>
+    <TextView
+        android:id="@+id/tv_suspned_dhl"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="导航栏"
+        android:gravity="center"
+        android:visibility="gone"
+        />
+</FrameLayout>

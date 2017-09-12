@@ -59,10 +59,37 @@ public class StickyRecyCyclerViewActivity extends AppCompatActivity {
 //                }else {
 //                    mHead.setVisibility(View.GONE);
 //                }
+                /**
+                 * 显示与隐藏头部
+                 */
                 View stickyInfoView = recyclerView.findChildViewUnder(mHead.getMeasuredWidth() / 2, 5);
+//                int viewType=recyclerView.getChildViewHolder(stickyInfoView).getItemViewType();
+//                if (viewType==0&&stickyInfoView.getTop()<=0){
+//                    mHead.setVisibility(View.VISIBLE);
+//                    mHead.setTranslationY(0);
+//                }
+                View secondView=recyclerView.findChildViewUnder(mHead.getMeasuredWidth()/2,mHead.getMeasuredHeight());
+//                int secondViewType=recyclerView.getChildViewHolder(secondView).getItemViewType();
+//                if (secondViewType==0){
+//                    mHead.setTranslationY(secondView.getTop()-mHead.getMeasuredHeight());
+//                }
+
+                /**
+                 * 固定指定item到头部
+                 */
+                int topItemPosition=recyclerView.getChildViewHolder(stickyInfoView).getLayoutPosition();
+                Log.d("type1type1111","顶部item的postion"+topItemPosition+"gettop值："+stickyInfoView.getTop());
+
+
+                View headView=recyclerView.getChildAt(firstItem);
+                View item=recyclerView.getChildAt(3);
                 mRv.getChildAt(0).getId();
                 Log.d("type1type1111",stickyInfoView.getId()+"");
                 Log.d("type1type111",mRv.getChildAt(0).getId()+"");
+                Log.d("type1type111","第一个可见item的下标："+firstItem);
+//                Log.d("type1type111","第一个可见item top值："+headView.getTop());
+                Log.d("type1type111","第4item top值："+stickyInfoView.getTop());
+                Log.d("type1type111","第4个item："+item.getContentDescription());
                 Log.d("测试测试","ddddd");
 //                Toast.makeText(StickyRecyCyclerViewActivity.this, mAdapter.getItemViewType(manager.findFirstCompletelyVisibleItemPosition()),Toast.LENGTH_SHORT).show();
 

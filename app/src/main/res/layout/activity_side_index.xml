@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_side_index"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ecomoter.myapplication.sideindex.SideIndexActivity">
+
+    <ecomoter.myapplication.sideindex.SideIndexView
+        android:id="@+id/siv"
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"/>
+
+    <TextView
+        android:id="@+id/tv_letter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="10dp"
+        android:background="@color/colorAccent"
+        android:text="A"
+        android:visibility="gone"/>
+
+  <Button
+      android:id="@+id/btn_navi"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="导航"/>
+
+    <TextView
+        android:id="@+id/tv_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_navi"/>
+
+    <TextView
+        android:id="@+id/tv_lo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_address"/>
+
+</RelativeLayout>

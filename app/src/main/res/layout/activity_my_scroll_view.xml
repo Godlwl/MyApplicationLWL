@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_my_scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ecomoter.myapplication.HorizonSelect.MyScrollViewActivity">
+
+    <ecomoter.myapplication.HorizonSelect.MyScrollView
+        android:id="@+id/sc"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:scrollbars="none"
+        android:background="@color/gray"></ecomoter.myapplication.HorizonSelect.MyScrollView>
+
+
+    <View
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@android:color/holo_red_dark"
+        android:alpha="0.3"
+        android:layout_centerHorizontal="true"
+        ></View>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:textCursorDrawable="@drawable/edt_cursor"/>
+
+</RelativeLayout>

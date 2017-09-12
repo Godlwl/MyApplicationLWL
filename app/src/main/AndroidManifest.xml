@@ -7,6 +7,9 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
     <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
         android:name=".MyApplication"
@@ -31,7 +34,9 @@
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity android:name=".StickyRecyCyclerViewActivity" />
+        <activity android:name=".StickyRecyCyclerViewActivity">
+
+        </activity>
         <activity android:name=".ScrollActivity" />
         <activity
             android:name=".DrawLayoutActivity"
@@ -47,8 +52,8 @@
             android:name=".Main2Activity"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme" />
-        <activity android:name=".CameraActivity" />
-        <activity android:name=".Camera2Activity" />
+        <activity android:name=".camera.CameraActivity" />
+        <activity android:name=".camera.Camera2Activity" />
         <activity android:name=".ScrollerActivity" />
         <activity android:name=".AnimatorActivity" />
         <activity
@@ -77,12 +82,34 @@
                     android:scheme="myapp" />
             </intent-filter>
         </activity>
-        <activity android:name=".startwithbrowser.SecondActivity" />
-        <activity android:name=".rxjava.RxJavaActivity"></activity>
-        <activity android:name=".rxjava.RxJavaAndRetrofitActivity">
-
-        </activity>
-        <activity android:name=".banner.BannerActivity">
+        <activity
+            android:name=".startwithbrowser.SecondActivity"
+            android:theme="@style/App" />
+        <activity android:name=".rxjava.RxJavaActivity" />
+        <activity android:name=".rxjava.RxJavaAndRetrofitActivity" />
+        <activity android:name=".banner.BannerActivity" />
+        <activity android:name=".HorizonScrollSelect.ScrollSelectActivity" />
+        <activity android:name=".HorizonSelect.MyScrollViewActivity" />
+        <activity android:name=".banner.ConvenientBannerActivity" />
+        <activity
+            android:name=".activityjumpanim.FirstActivity"
+            android:theme="@style/App"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity android:name=".ScrollViewActivity" />
+        <activity android:name=".popupwindow.PopupWindowActivity" />
+        <activity android:name=".md.MdDemoActivity" />
+        <activity
+            android:name=".md.ScrollingActivity"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".md.ScrollActivity" />
+        <activity android:name=".SoftBoradActivity" />
+        <activity android:name=".JumpToQQActivity" />
+        <activity android:name=".sideindex.SideIndexActivity" />
+        <activity android:name=".camera.OpenCameraActivity" />
+        <activity android:name=".spalashview.CountDownActivity"></activity>
+        <activity android:name=".wxdatabase.GetWxInfoActivity"></activity>
+        <activity android:name=".suspendscroll.SuspendScrollActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

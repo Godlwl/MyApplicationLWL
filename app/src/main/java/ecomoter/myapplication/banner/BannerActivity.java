@@ -8,17 +8,21 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 
 import ecomoter.myapplication.R;
 
-public class BannerActivity extends AppCompatActivity {
+public class BannerActivity extends AppCompatActivity implements BannerAdapter.OnClickL {
     private ViewPager mVpBanner;
     private ArrayList<String> mUrl;
-    private PagerAdapter mAdapter;
+    private BannerAdapter mAdapter;
     private int mCurrentPotion;
     private Handler mAutoHandler;
+
+    private Button mBtnReLoad;
 
     /**
      * 指示器
@@ -34,13 +38,36 @@ public class BannerActivity extends AppCompatActivity {
         mPcv= (PageControlView) findViewById(R.id.pcv);
         mPcv.count=mUrl.size();
         mVpBanner= (ViewPager) findViewById(R.id.vp_banner);
-        mAdapter=new BannerAdapter(mUrl);
+        mAdapter=new BannerAdapter(mUrl,this);
         mVpBanner.setAdapter(mAdapter);
         mVpBanner.addOnPageChangeListener(mOnPageChangeListener);
+        mAdapter.notifyDataChanged(mUrl);
         mVpBanner.setCurrentItem(1);
-        mAdapter.notifyDataSetChanged();
+        mPcv.generatePageControl(mVpBanner.getCurrentItem());
         mAutoHandler.removeCallbacksAndMessages(null);
         mAutoHandler.sendMessageDelayed(mAutoHandler.obtainMessage(0,mVpBanner.getCurrentItem()),3000);
+
+        mBtnReLoad= (Button) findViewById(R.id.btn_reLoad);
+        mBtnReLoad.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                reLoad();
+            }
+        });
+
+    }
+
+    private void reLoad(){
+        mUrl.clear();
+        mUrl.add("http://pic.58pic.com/58pic/16/62/63/97m58PICyWM_1024.jpg");
+        mUrl.add("http://pic.58pic.com/58pic/16/62/63/97m58PICyWM_1024.jpg");
+        mUrl.add("http://pic.58pic.com/58pic/16/62/63/97m58PICyWM_1024.jpg");
+        mUrl.add("http://pic.58pic.com/58pic/16/62/63/97m58PICyWM_1024.jpg");
+        mPcv.count=mUrl.size();
+        mAdapter.notifyDataChanged(mUrl);
+        mPcv.generatePageControl(mVpBanner.getCurrentItem());
+//        mVpBanner.setCurrentItem(mVpBanner.getCurrentItem());
+
 
     }
 
@@ -107,6 +134,11 @@ public class BannerActivity extends AppCompatActivity {
         }
     };
 
+    @Override
+    public void onClick(int potision) {
+        Toast.makeText(this,potision+"",Toast.LENGTH_SHORT).show();
+    }
+
     private class AutoHandler extends Handler{
         @Override
         public void handleMessage(Message msg) {
@@ -118,4 +150,5 @@ public class BannerActivity extends AppCompatActivity {
 
         }
     }
+
 }

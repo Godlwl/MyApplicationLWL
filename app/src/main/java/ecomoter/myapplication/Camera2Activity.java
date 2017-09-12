@@ -16,9 +16,11 @@ import android.hardware.camera2.CameraManager;
 import android.hardware.camera2.CaptureRequest;
 import android.media.Image;
 import android.media.ImageReader;
+import android.os.Build;
 import android.os.Environment;
 import android.os.Handler;
 import android.os.HandlerThread;
+import android.support.annotation.RequiresApi;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -125,7 +127,6 @@ public class Camera2Activity extends AppCompatActivity implements TextureView.Su
         mTvHeight = mTvPre.getHeight();
 
     }
-
     private void initCamera2() {
         HandlerThread handlerThread = new HandlerThread("Camera2");
         handlerThread.start();

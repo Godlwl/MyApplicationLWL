@@ -32,16 +32,24 @@ public class BannerAdapter extends PagerAdapter {
      * 数据
      */
     private ArrayList<String> mDatas;
-    public BannerAdapter(ArrayList<String> datas){
-        /**
-         * 添加最后一张到第一张
-         */
-        datas.add(0,datas.get(datas.size()-1));
-        /**
-         * 添加第一张到最后一张
-         */
-        datas.add(datas.get(1));
-        this.mDatas=datas;
+
+    /**
+     * 点击监听回调
+     * @param datas
+     */
+    private OnClickL mOnClickL;
+    public BannerAdapter(ArrayList<String> datas,OnClickL onClickL){
+        mDatas=new ArrayList<>();
+//        /**
+//         * 添加最后一张到第一张
+//         */
+//        datas.add(0,datas.get(datas.size()-1));
+//        /**
+//         * 添加第一张到最后一张
+//         */
+//        datas.add(datas.get(1));
+//        this.mDatas=datas;
+        this.mOnClickL=onClickL;
 
     }
     @Override
@@ -55,16 +63,50 @@ public class BannerAdapter extends PagerAdapter {
     }
 
     @Override
-    public Object instantiateItem(ViewGroup container, int position) {
+    public Object instantiateItem(ViewGroup container, final int position) {
         ImageView imageView=new ImageView(container.getContext());
         imageView.setScaleType(ImageView.ScaleType.FIT_XY);
         Glide.with(container.getContext()).load(mDatas.get(position)).into(imageView);
         container.addView(imageView);
+        imageView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mOnClickL.onClick(position);
+
+            }
+        });
         return imageView;
     }
 
     @Override
     public void destroyItem(ViewGroup container, int position, Object object) {
         container.removeView((View) object);
+    }
+
+    /**
+     * 解决调用notify不能自动刷新的问题
+     * @param object
+     * @return
+     */
+    @Override
+    public int getItemPosition(Object object) {
+        return POSITION_NONE;
+    }
+
+    public void notifyDataChanged(ArrayList<String> datas){
+        /**
+         * 添加最后一张到第一张
+         */
+        datas.add(0,datas.get(datas.size()-1));
+        /**
+         * 添加第一张到最后一张
+         */
+        datas.add(datas.get(1));
+        this.mDatas=datas;
+        notifyDataSetChanged();
+    }
+
+    interface OnClickL{
+        void onClick(int potision);
     }
 }
